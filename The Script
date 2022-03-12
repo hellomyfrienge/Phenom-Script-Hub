@@ -1,0 +1,99 @@
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Phenom";
+	Text = "Script Successfully Loaded";
+	Duration = 5;
+})
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+    local Window = Library.CreateLib("Phenom", "GrapeTheme")
+ 
+    -- MAIN
+    local Main = Window:NewTab("Main")
+    local MainSection = Main:NewSection("Main")
+
+    MainSection:NewButton("Loom's Aimbot", "Gives you Aimbot", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Loompic/Phenom-Aimbot/main/Bot"))()
+    end)
+
+    MainSection:NewButton("Ball Mag (Press R)", "Gives you Ball Mag", function()
+        local UIS = game:GetService('UserInputService')
+        local plr = game.Players.LocalPlayer
+        local Char = plr.Character or plr.CharacterAded:Wait()
+        local Key = 'R'
+        UIS.InputBegan:Connect(function(Input, IsTyping)
+        if IsTyping then return end
+        local KeyPressed = Input.KeyCode
+        if KeyPressed == Enum.KeyCode[Key] then
+        game.Workspace.Map.Basketball.Handle.CFrame = Game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+        end
+        end)
+    end)
+
+
+    -- PLAYER
+    local Player = Window:NewTab("Player")
+    local PlayerSection = Player:NewSection("Player")
+    
+    
+
+    PlayerSection:NewButton("Infinite Jumps", "Gives you Infinite Jumps", function()    
+    local InfiniteJumpEnabled = true
+    game:GetService("UserInputService").JumpRequest:connect(function()
+	if InfiniteJumpEnabled then
+		game:GetService"Players".LocalPlayer.Character:FindFirstChildOfClass'Humanoid':ChangeState("Jumping")
+	end
+    end)
+
+    end)
+
+    -- Teleportation
+    local Teleportation = Window:NewTab("Teleportation")
+    local TPSection = Teleportation:NewSection("Teleportation")
+
+    TPSection:NewButton("RimTp1", "Tps you to a certain rim", function()
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-16.9935493, 42.9078331, 143.324341, -1, 0, 0, 0, 1, 0, 0, 0, -1) 
+    end)
+
+    TPSection:NewButton("RimTp2", "Tps you to a certain rim", function()
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-16.9944324, 42.6078377, -46.1025467, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+    end)
+
+    TPSection:NewButton("BallSpawn1", "Tps you to a Ball Spawner", function()
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-16.9139996, 27.8899994, -32.2940369, -1.1920929e-07, -0, -1.00000012, 0, 1, -0, 1.00000012, 0, -1.1920929e-07)
+    end)
+
+    TPSection:NewButton("BallSpawn2", "Tps you to a Ball Spawner", function()
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-17.0290585, 27.8799992, 128.626984, -1.1920929e-07, 0, 1.00000012, 0, 1, 0, -1.00000012, 0, -1.1920929e-07)
+    end)
+    
+    
+
+    -- Credits
+
+    local Credits = Window:NewTab("Credits")
+    local CreditsSection = Credits:NewSection("Credits")
+
+    CreditsSection:NewLabel("Gui Maker: xHeptc")
+    CreditsSection:NewLabel("Scripter: Jay")
+    CreditsSection:NewLabel("Aimbot Maker: Loompic")
+
+
+
+    --Settings
+    local Settings = Window:NewTab("Settings")
+    local SettingsSection = Settings:NewSection("Settings")
+
+    SettingsSection:NewButton("Reset", "Resets your Characters", function()
+        game.Players.LocalPlayer.Character.Humanoid.Health = 0
+    end)
+
+    SettingsSection:NewButton("Rejoins", "Rejoins your game", function()
+        local TeleportService = game:GetService("TeleportService")
+        local placeID = 623694595
+        local player = Game.Players.LocalPlayer
+         
+        TeleportService:Teleport(placeID, player)
+    end)
+
+    SettingsSection:NewKeybind("Toggle", "Toggles the Gui", Enum.KeyCode.F, function()
+        Library:ToggleUI()
+    end)
