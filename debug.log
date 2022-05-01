@@ -1,0 +1,1786 @@
+[0630/024011.087:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/024504.378:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/024504.643:ERROR:cache_util_win.cc(20)] Unable to move the cache: Ingen tilgang. (0x5)
+[0630/024504.643:ERROR:cache_util.cc(144)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0630/024504.644:ERROR:disk_cache.cc(184)] Unable to create cache
+[0630/024504.644:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[0630/150704.405:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/173955.119:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/174023.343:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/174040.737:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/174102.288:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/174258.486:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/175122.045:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/175140.756:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/175401.551:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/175603.994:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/175714.797:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/180754.925:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/180825.174:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/180903.953:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/180922.798:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/181046.519:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/181109.825:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/181224.361:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/181303.206:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/181323.573:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/181400.360:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/191052.277:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/191212.472:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/191706.914:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/191718.719:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/191749.998:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/191823.688:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/192103.690:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/192843.475:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/192904.151:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/193123.144:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/193150.271:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/193215.300:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/193243.689:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/193305.970:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/193317.588:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/193401.514:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/193407.918:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/193510.776:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/205105.399:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/205658.868:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/205727.237:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/205734.454:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/210318.149:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/210558.842:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/210616.561:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/210710.842:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/211358.340:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/215109.760:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/215128.640:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/215201.758:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/215559.472:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0630/235041.143:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/000918.291:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/002400.403:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/002507.872:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/002534.057:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/002610.316:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/002818.338:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/003017.479:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/003057.108:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/003130.077:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/003347.496:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/003403.127:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/003418.133:INFO:child_thread_impl.cc(854)] ChildThreadImpl::EnsureConnected()
+[0701/003451.167:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/005449.840:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/011927.855:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/011945.077:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/012503.644:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/012846.172:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/012902.854:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/014111.154:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/230840.811:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/232820.416:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/232838.762:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/232900.509:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/232920.870:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/233247.909:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/233616.463:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/233838.787:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/233911.460:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/233940.945:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/234251.222:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/234329.196:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/235048.436:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/235135.794:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/235239.542:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/235320.995:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/235531.635:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/235606.984:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/235630.924:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/235806.093:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/235823.195:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0701/235840.606:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/000923.554:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/000949.960:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/001029.847:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/001100.138:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/001703.542:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/001730.922:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/001751.941:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/002236.369:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/002306.876:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/002732.590:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/002820.106:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/002920.305:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/003316.178:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/004323.178:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/005816.879:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/010044.084:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/010118.602:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/010218.380:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/010442.985:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/010521.191:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/010833.731:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/011302.699:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/011542.658:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/011551.678:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/011716.065:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/011752.168:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/011801.008:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/011821.464:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/011944.212:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/012954.000:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/013441.853:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/020113.525:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/020316.827:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/020341.362:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/020412.737:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/020503.324:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/020551.096:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/021220.807:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022329.291:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022402.978:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022515.679:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022532.237:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022553.741:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022624.007:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022707.265:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022722.559:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022736.915:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022800.989:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022844.126:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/022918.735:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/023017.158:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/023125.558:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/023510.465:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/023540.316:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/023613.458:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/023629.897:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/024228.274:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/024321.618:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/024345.000:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/024523.465:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/024735.168:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/024757.520:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/024837.004:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/024858.860:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/024913.385:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/025132.524:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/025206.209:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/034032.684:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/034050.039:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/034135.065:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/034322.647:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/034439.847:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/111227.411:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/111929.375:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/112136.849:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/112318.791:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/112618.073:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/112808.064:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/112912.848:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/112941.699:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/113040.896:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/113148.249:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114006.611:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114021.785:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114112.773:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114145.032:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114200.795:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114345.407:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114559.817:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114632.504:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114659.558:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114712.910:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114745.186:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114821.258:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114834.352:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/114843.134:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/150302.184:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/150312.536:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/154919.757:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/155020.771:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/155254.803:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/155409.370:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/155505.055:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/160347.501:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/173317.431:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/200011.449:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/200032.456:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/200638.332:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/201059.765:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/201240.876:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/201346.537:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/202443.549:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/205434.356:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/205451.826:INFO:CONSOLE(912)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-search/_/js/k=boq-search.VisualFrontendUi.en_US.RfSju0TyE3Q.es5.O/am=epfAQRBR_AgAAAAAAAAA5RkEABAAIAiRAQwAEBAHSEGgESDGAMIpWAByOGCUAgMAAALgYQABAAIACoIgQgAEQAYAAPADQEUAAAAAACDu8eAAAQAAAAAACAABo2IAAAAAAMASAAAAAAAg/d=1/excm=_b,_tp,searchview/ed=1/dg=0/wt=2/rs=AH7-fg4DgzTf_rHYI4GcrraVjHf8WSsiHw/m=_b,_tp (912)
+[0702/205451.827:INFO:CONSOLE(912)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-search/_/js/k=boq-search.VisualFrontendUi.en_US.RfSju0TyE3Q.es5.O/am=epfAQRBR_AgAAAAAAAAA5RkEABAAIAiRAQwAEBAHSEGgESDGAMIpWAByOGCUAgMAAALgYQABAAIACoIgQgAEQAYAAPADQEUAAAAAACDu8eAAAQAAAAAACAABo2IAAAAAAMASAAAAAAAg/d=1/excm=_b,_tp,searchview/ed=1/dg=0/wt=2/rs=AH7-fg4DgzTf_rHYI4GcrraVjHf8WSsiHw/m=_b,_tp (912)
+[0702/205502.354:INFO:CONSOLE(3807)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/35e75ccf/jsbin/desktop_polymer_disambiguate_properties.vflset/desktop_polymer_disambiguate_properties.js (3807)
+[0702/205502.739:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[0702/205506.715:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=7RaLUZyxWEw (0)
+[0702/205527.228:WARNING:sync_reader.cc(172)] ASR: No room in socket buffer.: Datakanalen lukkes. (0xE8)
+[0702/205724.657:WARNING:sync_reader.cc(172)] ASR: No room in socket buffer.: Datakanalen lukkes. (0xE8)
+[0702/205847.382:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/205848.039:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.com/ (0)
+[0702/210008.039:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/212540.158:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/220607.506:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/220815.630:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/220815.809:ERROR:cache_util_win.cc(20)] Unable to move the cache: Ingen tilgang. (0x5)
+[0702/220815.809:ERROR:cache_util.cc(144)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0702/220815.809:ERROR:disk_cache.cc(184)] Unable to create cache
+[0702/220815.809:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[0702/221021.431:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/221324.540:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/221341.320:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0702/221500.508:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0703/013426.663:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0703/013522.863:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0703/013636.939:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0703/013811.783:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0703/014016.662:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0703/014217.362:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0703/014355.470:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/154513.728:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/182241.332:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/182326.923:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/182359.218:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/182436.039:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/182555.182:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/182626.234:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/182701.006:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/182854.504:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/192727.801:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/192923.165:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/193012.996:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/193035.810:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/193123.243:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/194736.220:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/194908.715:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0704/195044.960:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/003748.752:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/020117.796:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/020554.064:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/020647.800:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/020808.340:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/020822.211:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/023120.280:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/023132.271:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/023222.595:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/023238.808:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/023640.520:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/023640.753:ERROR:cache_util_win.cc(20)] Unable to move the cache: Ingen tilgang. (0x5)
+[0705/023640.753:ERROR:cache_util.cc(144)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0705/023640.753:ERROR:disk_cache.cc(184)] Unable to create cache
+[0705/023640.754:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[0705/024041.049:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/024412.540:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/024643.081:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/024656.115:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/025138.773:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/025649.896:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/025721.031:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/025903.301:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/030039.560:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/030439.238:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/031345.595:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/032024.300:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/033543.097:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/033556.505:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/033702.563:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/034129.548:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/034215.296:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/034455.276:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/034855.013:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/034947.132:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/035105.214:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/035134.741:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/035151.432:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/155219.133:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/160243.296:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/160259.446:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/160344.697:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/164708.454:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/164708.600:ERROR:cache_util_win.cc(20)] Unable to move the cache: Ingen tilgang. (0x5)
+[0705/164708.600:ERROR:cache_util.cc(144)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0705/164708.600:ERROR:disk_cache.cc(184)] Unable to create cache
+[0705/164708.600:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[0705/164817.039:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/165059.718:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/195212.577:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/195353.341:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/210956.318:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0705/233924.989:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/015010.004:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/015154.104:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/015229.394:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/015827.627:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/015914.051:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/020112.672:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/020242.295:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/020751.674:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/021046.798:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/021122.648:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/021801.660:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/021910.348:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/022119.432:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/022203.879:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/022402.221:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/024045.205:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/024933.752:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/025701.360:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/025734.160:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/025756.174:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/032606.401:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/032644.417:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/032743.588:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/033550.736:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/033750.598:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/034048.417:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/034246.946:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0706/034555.573:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/013352.825:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/014531.020:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/014815.015:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/015419.373:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/015734.473:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/015908.270:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/015908.596:INFO:CONSOLE(296)] "Uncaught SyntaxError: await is only valid in async functions and the top level bodies of modules", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/Monaco.html (296)
+[0713/015928.337:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/015928.668:INFO:CONSOLE(296)] "Uncaught SyntaxError: await is only valid in async functions and the top level bodies of modules", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/Monaco.html (296)
+[0713/020016.057:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/020035.285:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/020709.934:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/020710.446:INFO:CONSOLE(299)] "Uncaught TypeError: (intermediate value)(...) is not a function", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/Monaco.html (299)
+[0713/020710.716:INFO:CONSOLE(518)] "Uncaught (in promise) ReferenceError: OnDidChangeCursorPosition is not defined", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/basic-languages/lua/lua.js (518)
+[0713/020713.270:INFO:CONSOLE(59)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/editor/editor.main.js (59)
+[0713/020713.270:INFO:CONSOLE(59)] "Failed to construct 'Worker': Script at 'file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/editor/editor.main.js (59)
+[0713/021043.919:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/021044.248:INFO:CONSOLE(296)] "Uncaught SyntaxError: await is only valid in async functions and the top level bodies of modules", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/Monaco.html (296)
+[0713/021102.425:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/021437.474:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/021856.289:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/021928.249:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/021946.402:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022023.901:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022035.841:WARNING:CONSOLE(1)] "::-webkit-details-marker pseudo element selector is deprecated. Please use ::marker instead. See https://chromestatus.com/feature/6730096436051968 for more details.", source: devtools://devtools/ui/ui.js (1)
+[0713/022232.187:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022241.657:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022339.667:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022354.466:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022356.476:INFO:CONSOLE(296)] "[object Object]", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/Monaco.html (296)
+[0713/022448.601:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022506.738:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022609.263:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022700.560:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022701.137:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot read property 'model' of undefined", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/Monaco.html (296)
+[0713/022701.442:INFO:CONSOLE(518)] "Uncaught (in promise) ReferenceError: OnDidChangeCursorPosition is not defined", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/basic-languages/lua/lua.js (518)
+[0713/022702.725:INFO:CONSOLE(59)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/editor/editor.main.js (59)
+[0713/022702.725:INFO:CONSOLE(59)] "Failed to construct 'Worker': Script at 'file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/editor/editor.main.js (59)
+[0713/022831.682:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/022832.275:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot read property 'model' of undefined", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/Monaco.html (296)
+[0713/022832.536:INFO:CONSOLE(518)] "Uncaught (in promise) ReferenceError: OnDidChangeCursorPosition is not defined", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/basic-languages/lua/lua.js (518)
+[0713/022834.327:INFO:CONSOLE(59)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/editor/editor.main.js (59)
+[0713/022834.328:INFO:CONSOLE(59)] "Failed to construct 'Worker': Script at 'file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/editor/editor.main.js (59)
+[0713/023248.286:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/023248.925:INFO:CONSOLE(296)] "Uncaught TypeError: monaco.editor.onKeyUp is not a function", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/Monaco.html (296)
+[0713/023249.205:INFO:CONSOLE(518)] "Uncaught (in promise) ReferenceError: OnDidChangeCursorPosition is not defined", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/basic-languages/lua/lua.js (518)
+[0713/023250.905:INFO:CONSOLE(59)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/editor/editor.main.js (59)
+[0713/023250.906:INFO:CONSOLE(59)] "Failed to construct 'Worker': Script at 'file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/editor/editor.main.js (59)
+[0713/023316.754:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/023328.249:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/023328.884:INFO:CONSOLE(296)] "Uncaught TypeError: CefSharp.PosMessage is not a function", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/Monaco.html (296)
+[0713/023329.161:INFO:CONSOLE(518)] "Uncaught (in promise) ReferenceError: OnDidChangeCursorPosition is not defined", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/basic-languages/lua/lua.js (518)
+[0713/023353.780:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/023407.600:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/023432.750:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/023610.619:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/023644.570:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/023709.623:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/024459.772:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0713/024500.579:INFO:CONSOLE(298)] "Uncaught (in promise) TypeError: Cannot read property 'onDidChangeModelContent' of undefined", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/Monaco.html (298)
+[0713/024502.064:INFO:CONSOLE(59)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/editor/editor.main.js (59)
+[0713/024502.065:INFO:CONSOLE(59)] "Failed to construct 'Worker': Script at 'file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/_King_/source/repos/KrnlUI/KrnlUI/bin/Release/Monaco/vs/editor/editor.main.js (59)
+[0713/024539.124:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0817/153546.057:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0817/153638.291:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0830/110037.672:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0830/110139.678:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/195106.443:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/195844.783:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/195950.870:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/200138.029:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/200505.884:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/200605.629:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/200630.330:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/200859.179:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/201615.702:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/201650.066:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/201703.131:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/201753.588:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/201825.252:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/202409.616:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/203024.604:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/203138.803:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/203247.649:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/203306.893:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/203328.427:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/203531.566:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/203538.652:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/203603.883:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/203612.212:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/203939.587:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/204037.094:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/204055.610:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/220412.321:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/220558.023:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/220648.251:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/221016.027:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/221225.876:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/221233.254:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/221302.118:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/221535.578:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/221559.925:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/221638.261:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/222235.668:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/222315.996:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0914/222325.050:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/175847.577:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/175957.165:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/180020.256:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/180040.309:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/180108.006:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/180157.634:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/180210.868:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/180647.030:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/181104.298:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/181134.735:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/181440.819:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/181459.547:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/210553.593:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/214416.925:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/222458.830:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/222853.521:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/222949.848:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223058.229:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223157.265:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223214.987:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223345.303:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223416.759:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223437.379:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223458.026:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223508.386:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223538.193:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223609.745:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223637.277:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223719.521:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223743.789:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223756.230:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223810.297:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223841.913:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223913.511:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/223938.474:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/224219.063:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0915/224458.560:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/170604.948:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/170809.491:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/170823.324:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/170936.320:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/171002.384:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/171127.375:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/171243.832:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/171257.907:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/171412.824:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/171451.890:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/171548.818:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/171806.414:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/172038.270:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0917/172624.224:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/024648.305:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/025311.648:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/025500.863:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/025743.788:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/030037.039:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/030056.008:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/030118.009:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/030130.631:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/032242.257:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/032756.756:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/033646.175:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/034223.342:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/040424.054:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/040517.444:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/040621.335:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/040840.134:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/040859.452:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/041054.323:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/041156.571:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/041958.879:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/042218.968:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/042534.562:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/042553.323:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/042720.700:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/042912.170:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/042937.249:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/043051.008:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/043342.057:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/043407.208:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/043510.023:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/043838.726:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/045447.254:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/121526.768:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/131202.620:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/135602.104:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/190547.406:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/191317.845:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/191325.564:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/191333.349:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/191340.407:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/191357.437:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191357.438:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191357.540:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191357.540:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.557:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.558:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.559:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.560:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.560:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.614:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0919/191357.693:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191357.693:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191357.901:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.901:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191357.976:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191357.976:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191415.205:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191415.205:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191415.308:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191415.308:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.327:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.328:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.329:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.330:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.331:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.331:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.382:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[0919/191415.455:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191415.455:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191415.674:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.674:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191415.753:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191415.753:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191814.975:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191814.975:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191815.082:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191815.082:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.091:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.092:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.093:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.094:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.094:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191815.157:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[0919/191815.234:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191815.234:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191821.992:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191821.992:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191822.088:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191822.088:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191822.107:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.107:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.107:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.107:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.107:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.107:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.107:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.107:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.107:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.108:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.109:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.110:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.110:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.110:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.110:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.110:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.110:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.110:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191822.161:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[0919/191822.226:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191822.227:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191832.023:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191832.023:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191832.122:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191832.122:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.134:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.135:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.136:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.196:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[0919/191832.264:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191832.264:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191832.452:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.452:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191832.532:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191832.532:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191844.739:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191844.739:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191844.840:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191844.840:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191844.861:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.862:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.863:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.864:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.865:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191844.912:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[0919/191844.979:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191844.979:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/191845.183:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191845.183:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/191845.257:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/191845.257:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/194906.288:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/194906.288:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/194906.396:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/194906.396:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.401:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.402:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.403:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.404:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.405:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.405:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.506:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[0919/194906.543:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/194906.543:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0919/194906.746:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.746:WARNING:resource_bundle.cc(1050)] locale resources are not loaded
+[0919/194906.830:WARNING:resource_bundle.cc(405)] locale_file_path.empty() for locale 
+[0919/194906.830:ERROR:alloy_main_delegate.cc(537)] Could not load locale pak for en-US
+[0117/133558.971:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0429/143023.305:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0429/143029.147:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/143029.148:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/143029.918:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/143029.920:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/143031.262:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/143031.325:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/143033.236:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/143033.550:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/143036.085:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/143036.416:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162215.520:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0429/162247.184:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162247.184:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162247.185:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162247.185:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162247.185:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162247.186:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162247.186:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162247.186:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162247.187:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162247.187:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162247.891:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162249.275:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162254.950:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162255.523:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162306.104:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162306.171:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162320.574:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162322.976:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162343.625:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162345.590:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162416.000:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162416.769:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162507.714:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162513.380:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162623.293:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162629.737:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162810.297:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/162815.888:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/163005.595:INFO:CONSOLE(59)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq", source: file:///C:/Users/Junior/AppData/Roaming/Krnl/Monaco/vs/editor/editor.main.js (59)
+[0429/163005.596:INFO:CONSOLE(59)] "Failed to construct 'Worker': Script at 'file:///C:/Users/Junior/AppData/Roaming/Krnl/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/Junior/AppData/Roaming/Krnl/Monaco/vs/editor/editor.main.js (59)
+[0429/163059.948:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/163125.513:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/163534.845:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/163543.703:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/164232.842:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/164239.965:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/165132.973:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/165134.233:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/170631.067:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/170723.772:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/172854.458:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/172937.386:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/180112.969:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/180548.774:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191248.772:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0429/191311.259:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191311.309:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191311.309:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191311.309:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191311.309:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191312.081:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191312.081:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191312.082:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191312.082:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191312.082:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191312.082:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191313.146:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191313.633:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191320.050:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191320.143:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191330.865:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191331.440:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191346.857:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191348.495:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191409.454:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191412.730:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191440.309:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191443.803:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191528.709:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191537.243:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191640.260:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191658.183:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191829.307:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/191904.953:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/192138.691:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/192143.827:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/192538.132:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/192614.362:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/193209.896:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/193227.916:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/194236.289:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/194255.075:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195537.567:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195539.659:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195542.584:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195544.850:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195547.592:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195549.864:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195552.615:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195554.878:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195557.631:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195559.892:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195602.651:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195604.904:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195607.659:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195609.911:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0429/195620.728:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195620.731:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195620.731:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195620.755:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195620.755:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195620.755:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195620.756:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195621.008:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195623.598:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195623.745:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195628.560:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195628.638:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195634.708:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195635.645:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195644.941:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195645.519:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195700.152:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195701.862:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195720.959:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195726.660:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195753.489:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195802.790:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195842.573:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/195853.656:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/200005.466:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/200013.159:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/200159.651:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/200217.797:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/200500.335:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/200515.019:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/200924.487:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/201000.471:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/201604.252:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/201619.746:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233404.660:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0429/233415.840:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233415.877:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233416.212:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233418.050:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233421.211:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233425.560:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233428.511:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233428.511:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233428.511:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233428.512:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233428.512:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233431.665:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233432.471:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233439.220:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233442.512:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233448.571:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233456.532:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233505.621:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233520.081:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233528.403:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233554.941:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233601.967:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233648.355:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233655.525:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233804.513:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233807.993:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/233954.840:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/234007.371:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/234245.551:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/234313.903:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/234654.408:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/234738.611:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/235322.676:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0429/235352.585:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/000414.216:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/000417.120:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/001907.114:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/002012.668:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/004120.520:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/004234.355:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/011336.925:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/011723.301:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/020047.155:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/020308.782:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/030047.199:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/030308.784:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/040047.202:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/040308.791:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/050047.210:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/050308.795:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/060047.250:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/060310.240:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/070048.690:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/070310.259:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/080048.688:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/080310.263:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/090048.699:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/090310.273:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/100048.710:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/100310.282:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/110048.715:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/110310.296:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/111428.530:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0430/140728.845:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0430/140747.329:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140747.423:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140747.423:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140747.423:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140747.424:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140747.988:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140748.024:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140748.025:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140748.025:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140748.025:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140748.026:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140750.984:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140754.258:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140758.227:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140804.783:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140808.715:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140820.372:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140823.134:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140843.256:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140845.889:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140916.463:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/140922.138:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/141008.402:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/141018.944:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/141125.246:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/141138.149:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/141316.545:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/141344.013:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/141558.916:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/141643.600:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/142001.460:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/142120.948:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/142646.084:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/142827.202:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/143543.186:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/143721.305:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/144219.261:INFO:CONSOLE(59)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq", source: file:///C:/Users/Junior/AppData/Roaming/Krnl/Monaco/vs/editor/editor.main.js (59)
+[0430/144219.262:INFO:CONSOLE(59)] "Failed to construct 'Worker': Script at 'file:///C:/Users/Junior/AppData/Roaming/Krnl/Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/Junior/AppData/Roaming/Krnl/Monaco/vs/editor/editor.main.js (59)
+[0430/145148.127:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/145247.453:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163101.389:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0430/163113.437:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163114.464:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163115.272:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163117.243:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163120.072:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163124.848:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163129.317:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163129.317:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163129.317:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163129.318:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163131.083:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163131.416:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163136.386:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163140.762:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163143.095:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163153.249:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163155.116:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163208.522:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163216.075:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163309.493:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0430/163317.551:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163317.554:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163317.976:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163317.978:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163319.277:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163319.400:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163321.194:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163321.377:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163324.041:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163324.799:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163328.544:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163329.777:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163334.711:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163335.615:INFO:CONSOLE(257)] "Uncaught TypeError: Cannot read property 'layout' of undefined", source: file:///C:/Users/Junior/AppData/Roaming/Krnl/Monaco/Monaco.html (257)
+[0430/163335.770:INFO:CONSOLE(257)] "Uncaught TypeError: Cannot read property 'layout' of undefined", source: file:///C:/Users/Junior/AppData/Roaming/Krnl/Monaco/Monaco.html (257)
+[0430/163337.269:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163344.999:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163347.343:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163358.704:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163402.423:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163422.791:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163427.421:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163456.349:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163500.111:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163544.443:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163552.930:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163703.165:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163706.807:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163850.453:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/163854.012:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/164157.976:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/164204.931:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/164637.023:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/164644.293:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/165255.307:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/165355.710:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/170217.547:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/170249.256:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/171617.564:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/171838.748:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/173645.400:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/174150.799:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/181018.132:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/181321.926:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/185930.368:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/190241.498:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/195930.890:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/200241.507:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/205930.936:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/210241.464:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/215930.504:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/220241.466:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/225930.945:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/230241.532:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0430/235930.638:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/000241.623:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/005930.588:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/010241.767:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/015930.677:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/020241.618:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/025930.683:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/030241.658:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031307.290:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031307.324:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031307.327:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031307.330:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031307.409:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031307.457:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031307.464:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031307.494:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031307.727:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031307.739:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031308.790:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031308.827:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031309.081:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031309.216:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031310.703:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031310.998:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031311.001:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031311.476:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031313.517:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031314.039:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031314.189:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031314.507:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031317.900:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031318.326:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031318.800:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031319.037:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031325.162:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031325.176:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031325.925:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031326.551:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031334.763:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031336.063:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031337.192:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031337.948:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031350.059:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031351.899:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031352.817:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031353.441:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031412.099:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031413.999:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031415.909:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031416.089:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031447.468:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031448.915:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031449.609:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031453.131:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031539.117:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031542.137:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031543.642:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031545.624:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031655.774:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031658.390:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031658.859:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031659.251:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031853.868:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031858.761:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031859.346:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/031900.294:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/032131.426:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/032136.011:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/032207.630:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/032210.569:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/032605.887:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/032621.892:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/032624.265:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/032641.262:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/033217.589:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/033227.598:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/033243.244:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/033312.229:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/034121.402:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/034132.810:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/034207.978:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/034332.666:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/035532.508:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/035533.085:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/035722.174:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/035753.480:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/041516.849:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/041828.639:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/042131.432:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/042140.173:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/044801.698:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/045055.990:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/045321.562:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/045657.364:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/053641.709:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/053830.704:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/054216.168:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/054729.246:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/063641.481:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/064729.234:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/073641.500:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/074729.269:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/083641.538:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/084729.269:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/093641.446:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/094729.287:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/103641.477:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/104729.294:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/113641.502:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/114729.298:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130204.353:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0501/130219.253:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130219.379:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130219.379:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130219.379:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130220.264:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130220.264:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130220.264:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130220.735:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130220.736:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130223.637:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130224.721:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130228.614:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130230.963:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130235.374:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130241.574:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130245.847:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130258.464:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130300.365:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130320.289:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130323.205:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130355.889:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130358.114:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130444.914:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130451.713:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130605.065:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130606.907:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130803.335:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/130803.367:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/131042.589:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/131056.909:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/131440.018:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/131453.278:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/132051.110:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/132055.645:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133800.208:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is swiftshader
+[0501/133806.801:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133806.802:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133807.102:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133807.179:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133808.339:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133808.387:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133810.210:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133810.230:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133813.063:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133813.074:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133817.209:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133817.860:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133824.636:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133824.865:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133835.686:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133835.913:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133850.089:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133851.584:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133912.858:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133912.858:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133913.563:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133913.609:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133914.779:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133915.055:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133916.837:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133917.215:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133919.567:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133920.059:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133924.435:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133924.617:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133931.926:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133932.124:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133942.242:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133942.747:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133958.888:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/133959.019:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134020.242:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134021.345:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134054.947:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134057.516:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134145.159:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134154.054:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134309.171:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134312.344:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134510.316:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134517.757:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134806.226:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/134813.854:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/135225.502:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/135254.157:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/135836.585:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/135941.646:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/140822.621:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/141029.033:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/142139.542:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/142450.729:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/144451.676:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0501/144523.450:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -200
